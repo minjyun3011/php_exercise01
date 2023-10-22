@@ -45,6 +45,6 @@ public function setNumber($number)
 
 public function setColor($color)
 {
-    $this->number = $color;
+    $this->color = $color;
 }
     }
